@@ -19,11 +19,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![WEB102](https://github.com/user-attachments/assets/ad1a9497-8cff-4741-a1c1-19a2d3cadd3c)
+<img src='(https://i.imgur.com/8Cs7toG.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with ...  
+
+GIF created with: 
 LiceCap!
 
 ## Notes
